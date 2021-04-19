@@ -1,5 +1,4 @@
-# Boostrap Components
-## Typography and Utilities
+# Boostrap Typography and Utilities
 
 Die Dateien sind in `01_start` (Ausgangslage) und `02_final` (Musterlösung) eingeteilt.
 
